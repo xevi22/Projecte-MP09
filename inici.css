@@ -6,11 +6,10 @@
 a:link, a:visited, a:active {
     color: dimgrey;
     text-decoration:none;
-
 }
 .au{
     width: 95%;
-    font-size: 50px   ;
+    font-size: 50px;
 }
 
 html {
