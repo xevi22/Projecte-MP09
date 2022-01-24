@@ -38,3 +38,9 @@ footer {
     border-radius: 25px;
     margin-left: 3%;
 }
+header{
+    width: 100%;
+    position: fixed;
+    z-index: 100;   
+}
+    

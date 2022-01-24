@@ -20,3 +20,16 @@ footer {
     height: 57px;
     color: white;
 }
+@media screen and (max-width:1000px){
+    .bg-light{
+        background-image: url("img/fonsrespon.png") !important;
+        background-repeat: no-repeat;
+        background-size: cover;
+    
+        background-attachment: fixed;
+    }
+    .aup{
+        width:60%  !important;
+        margin-top:90px !important
+    }
+}
